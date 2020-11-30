@@ -1,0 +1,31 @@
+#head {
+  padding: 40px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  margin-bottom: 50PX;
+  background-image: url(../../assets/img/upes.jpg);
+}
+
+#heading {
+  border-radius: 5px;
+  background: rgba(255,255,255,0.6);
+  padding: 40px;
+}
+
+.footer-dark {
+  padding: 50px 0;
+  color: #f0f9ff;
+  background-color: #282d32;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+#foot-name {
+  opacity: 0.6;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,0.8);
+}
+
